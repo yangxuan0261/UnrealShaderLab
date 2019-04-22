@@ -23,7 +23,7 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
-	UFUNCTION(BlueprintCallable)
-	void testa() {}
+	// UFUNCTION(BlueprintCallable)
+	// void testa(int32 num);
 
 };
