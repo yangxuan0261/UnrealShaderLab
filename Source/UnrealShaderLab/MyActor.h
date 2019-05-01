@@ -24,6 +24,6 @@ public:
 	virtual void Tick(float DeltaTime) override;
 
 	// UFUNCTION(BlueprintCallable)
-	// void testa(int32 num);
+	 //void testa(int32 num);
 
 };
